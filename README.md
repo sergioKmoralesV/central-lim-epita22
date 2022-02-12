@@ -1,1 +1,1 @@
-# Final project - Linear Algebra - EPITA 2022
+# Final project | Linear Algebra | EPITA 2022
