@@ -1,4 +1,4 @@
-# Central limit project | Linear Algebra | EPITA 2022
+# Central limit project | EPITA 2022
 
 ## Observations
 1) When I plot **both the mean and the sum** from the same sample, the results in the plot are the same since it is related to the same sample.
