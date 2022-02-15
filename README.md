@@ -7,4 +7,5 @@
    2) **Tosses:** 1.000.000 / **Samples:** 10.000 / **Size of samples:** 50.000
    3) **Tosses:** 1.000.000 / **Samples:** 50.000 / **Size of samples:** 100.000 `This takes some more time than others`
 3) I also added the bell shape to the figure when we receive inputs from the user.
-4) 
+4) I used only `numpy` and `matplotlib` as libraries since numpy also provides the *random function*.
+5) I use **list comprehension** when it comes to select the indexes for the sample. It is easier and we avoid having a for loop for it. Besides that, we use `range` for that too to facilitate the process and extraction of samples.
