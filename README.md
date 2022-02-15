@@ -9,3 +9,4 @@
 3) I also added the bell shape to the figure when we receive inputs from the user.
 4) I used only `numpy` and `matplotlib` as libraries since numpy also provides the *random function*.
 5) I use **list comprehension** when it comes to select the indexes for the sample. It is easier and we avoid having a for loop for it. Besides that, we use `range` for that too to facilitate the process and extraction of samples.
+6) I calculated the bell using the **mean** and the **standard deviation** of the means (from l2). In this way, we can simulate the curve it generates.
